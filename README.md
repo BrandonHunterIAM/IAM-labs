@@ -19,3 +19,9 @@ I configured Salesforce to use Okta as its identity provider and verified that a
 I configured a Conditional Access policy to require MFA and tested it in report-only mode before enabling it.
 
 [Watch the Conditional Access demo](https://www.loom.com/share/fe12e8d96cf548229df045c14521ef5e)
+
+## Microsoft Entra ID — Privileged Identity Management (PIM)
+
+I configured an eligible assignment for the Privileged Role Administrator role. Activation required MFA, justification, and approval, with a four-hour maximum.
+
+[Watch the PIM lab demo](https://www.loom.com/share/1bc949a2df324dc3b7391430d259fa18)
