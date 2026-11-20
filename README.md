@@ -13,3 +13,9 @@ I built a dynamic group rule that adds nurses to the Clinical All Nurses group b
 I configured Salesforce to use Okta as its identity provider and verified that an assigned test user could sign in through Okta.
 
 [Watch the SAML SSO demo](https://www.loom.com/share/6d7ae491d53b49c7b30340d07084a316)
+
+## Microsoft Entra ID — Conditional Access to Require MFA
+
+I configured a Conditional Access policy to require MFA and tested it in report-only mode before enabling it.
+
+[Watch the Conditional Access demo](https://www.loom.com/share/fe12e8d96cf548229df045c14521ef5e)
